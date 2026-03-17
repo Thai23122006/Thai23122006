@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Thái Dương
 
-<!--
-**Thai23122006/Thai23122006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying in Taiwan
+💻 Beginner in programming (starting from C++)
+🚀 Interested in AI & software development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🌱 Currently learning: **C++ (basic → OOP)**
+* 📌 Goal: Build a strong foundation before moving to AI
+* ⚡ Fun fact: I like exploring how things work behind the scenes
+
+---
+
+## 🔧 Skills
+
+* 💻 C++ (basic)
+* 🐍 Python (beginner)
+* 🌐 Basic understanding of how the Internet works
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🎯 Current Focus
+
+* 📚 Learning programming step by step
+* 🛠 Building small projects (console apps, simple tools)
+* 🔍 Understanding logic & problem solving
+
+---
+
+## 📫 Contact
+
+* ✉️ Email: [duongthaidmnhbsls12@gmail.com](mailto:duongthaidmnhbsls12@gmail.com)
+
+---
+
+⭐ *"Start small, but stay consistent."*
